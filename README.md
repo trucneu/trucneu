@@ -1,4 +1,5 @@
-🔭 I’m Kelly and I'm a full stack engineer. I have had 8+ years of website development, app development, design, database, AI and machine learning experience. 
+🔭 I’m Kelly and I'm a full stack engineer. 
+👻 I have had 8+ years of website development, app development, design, database, AI and machine learning experience. 
 🤩 I have done projects for multiple clients under various domains like eCommerce, healthcare, insurance, social media, fintech, car dealers, real estate, job boards, messenger, dating, fitness, on-demand, etc.
 🌱 I’m currently learning Golang, Flutter, K8s, Docker, CNCF.io projects, Vim, Databases
 👯 I’m looking to collaborate on Golang & Flutter open source projects
